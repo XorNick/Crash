@@ -1,0 +1,7 @@
+name: Crash
+main: net.xornick.crash.Crash
+version: 1.0
+author: XorNick
+commands:
+  crash:
+    description: Crashes a players client
